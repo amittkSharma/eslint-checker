@@ -1,19 +1,26 @@
 {
   "name": "@amittksharma/eslint-checker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Package to have customized and common eslint rules across development teams",
   "main": "index.js",
   "scripts": {
     "changelog": "auto-changelog -p -u  --issue-pattern [A-Z]+-d+ --issue-url https://github.com/amittkSharma/eslint-checker.git/browse/{id}  --hide-credit --sort-commits date --commit-limit false --output ./CHANGELOG.md"
   },
+  "peerDependencies": {
+    "prettier": "2.x.x"
+  },
   "devDependencies": {
     "auto-changelog": "2.4.0",
-    "@typescript-eslint/eslint-plugin": "5.27.1",
-    "@typescript-eslint/parser": "5.27.1",
-    "eslint": "8.17.0",
+    "@typescript-eslint/eslint-plugin": "5.28.0",
+    "@typescript-eslint/parser": "5.28.0",
+    "eslint": "8.18.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.0.0",
-    "npm-license-tracker": "3.0.0"
+    "npm-license-tracker": "3.0.0",
+    "eslint-plugin-react": "7.30.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-import-resolver-typescript": "2.7.1",
+    "eslint-plugin-react-hooks": "4.6.0"
   },
   "repository": {
     "type": "git",
