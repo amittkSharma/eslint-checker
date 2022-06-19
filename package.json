@@ -27,7 +27,11 @@
     "url": "git+https://github.com/amittkSharma/eslint-checker.git"
   },
   "keywords": [
-    "eslint"
+    "eslint",
+    "typescript",
+    "react",
+    "nodejs",
+    "prettier"
   ],
   "author": "Amitt K Sharma",
   "license": "MIT",
