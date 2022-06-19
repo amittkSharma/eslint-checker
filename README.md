@@ -1,8 +1,6 @@
 # eslint-checker
 
-[![NPM version](https://badge.fury.io/js/eslint-checker.svg)](https://www.npmjs.com/package/eslint-checker)
-[![Downloads](http://img.shields.io/npm/dm/eslint-checker.svg)](https://npmjs.org/package/eslint-checker)
-[![](https://img.shields.io/npm/l/eslint-checker.svg)](https://img.shields.io/npm/l/eslint-checker.svg)
+[![](https://img.shields.io/npm/l/@amittksharma/eslint-checker.svg)](https://img.shields.io/npm/l/@amittksharma/eslint-checker.svg)
 
 
 eslint-checker is the module to synchronize linting rules in the distributed development environment.
