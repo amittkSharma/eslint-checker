@@ -1,6 +1,6 @@
 {
   "name": "@amittksharma/eslint-checker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Package to have customized and common eslint rules across development teams",
   "main": "index.js",
   "scripts": {
